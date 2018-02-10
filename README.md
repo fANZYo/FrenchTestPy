@@ -1,4 +1,4 @@
-Helping a friend and learning python
+Helping a friend and learning python at the same time
 
 # Run
 `python frenchPhrases.py sentences.py`
