@@ -1,1 +1,7 @@
-Just having fun with python and learning python at the same time
+Helping a friend and learning python
+
+# Run
+python frenchPhrases.py sentences.py
+
+# Add sentences
+python frenchPhrases.py add sentences.py
